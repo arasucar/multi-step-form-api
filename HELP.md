@@ -1,11 +1,5 @@
-# Getting Started
+This sever project has been created to simulate a simple multi page form.
 
-### Reference Documentation
-
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/#build-image)
-* [Coroutines section of the Spring Framework Documentation](https://docs.spring.io/spring/docs/5.3.16/spring-framework-reference/languages.html#coroutines)
-
+Installation and Server Startup
+- clone the repo
+- run `mvn spring-boot:run`

@@ -2,7 +2,6 @@ package com.arasucar.multipageformapi.controller
 
 import com.arasucar.multipageformapi.model.Form
 import org.springframework.http.MediaType
-import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.*
 
 @RestController
